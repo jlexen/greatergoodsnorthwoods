@@ -1,0 +1,17 @@
+.bg-green
+{
+    background-color: #32533D;
+}
+
+.bg-full
+{
+    background-image: url('../img/forest.jpg');;
+}
+
+.bg-transparent-cover
+{
+    background-color: #D8CFAF;
+    opacity: 50%;
+}
+
+/**  https://coolors.co/d8cfaf-e6b89c-ed9390-f374ae-32533d */
